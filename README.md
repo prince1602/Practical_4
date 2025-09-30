@@ -17,6 +17,11 @@ To create an Android application that allows a user to set a specific time for a
 
 ### App Screenshots
 
+<img width="435" height="892" alt="41" src="https://github.com/user-attachments/assets/29186a8e-c6f9-4b82-99bf-67bc5d4add03" />
+<img width="448" height="898" alt="42" src="https://github.com/user-attachments/assets/e166b8d4-34d2-40a6-9f17-82b498e898d5" />
+<img width="428" height="900" alt="43" src="https://github.com/user-attachments/assets/443aece4-d046-4727-b45f-cd4dfc9369f9" />
+
+
 
 
 
